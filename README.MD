@@ -90,3 +90,14 @@ Este se refiere a la cita de abajo.
 
 Este otro texto se refiere a otra cita.
 > Otra cita.
+
+# lineas divisoras
+primera forma de la linea.
+
+---
+segunda forma de la linea.
+
+***
+tercera forma de la linea.
+
+___

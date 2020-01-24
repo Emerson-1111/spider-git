@@ -35,3 +35,19 @@ underline 2
 
 # imagenes
 ![imagen](https://s6.eestatic.com/2018/03/31/actualidad/Actualidad_296231968_71983699_1706x960.jpg)
+
+# code snippets
+```JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```

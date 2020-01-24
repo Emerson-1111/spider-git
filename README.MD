@@ -21,10 +21,14 @@ underline 2
 - formato ~~tachado~~.
 
 # listas
-
 1. formato lista ordenada.
 2. formato lista ordenada.
 3. formato lista ordenada.
 - formato lista desordenada.
 - formato lista desordenada.
 - formato lista desordenada.
+
+# links
+- <a href="http://www.google.com">Esto es un link HTML</a>
+- [Esto es un link Markdown](http://www.google.com)
+- [Esto es un link a index](index.html)

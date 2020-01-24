@@ -34,9 +34,10 @@ underline 2
 - [Esto es un link a index](index.html)
 
 # imagenes
-![imagen](https://s6.eestatic.com/2018/03/31/actualidad/Actualidad_296231968_71983699_1706x960.jpg)
+![imagen](http://jet-studio.com/images/logos/2/stark.png)
 
 # code snippets
+Codigo JSON
 ```JSON
 [
   {
@@ -50,4 +51,28 @@ underline 2
     "description": {"text": "...", "sensitive": false}
   }
 ]
+```
+Codigo Javascript
+```Javascript
+function $initHighlight(block, cls) {
+  try {
+    if (cls.search(/\bno\-highlight\b/) != -1)
+      return process(block, true, 0x0F) +
+             ` class="${cls}"`;
+  } catch (e) {
+    /* handle exception */
+  }
+  for (var i = 0 / 2; i < classes.length; i++) {
+    if (checkCondition(classes[i]) === undefined)
+      console.log('undefined');
+  }
+
+  return (
+    <div>
+      <web-component>{block}</web-component>
+    </div>
+  )
+}
+
+export  $initHighlight;
 ```

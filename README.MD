@@ -23,8 +23,8 @@ underline 2
 # listas
 
 1. formato lista ordenada.
-1. formato lista ordenada.
-1. formato lista ordenada.
+2. formato lista ordenada.
+3. formato lista ordenada.
 - formato lista desordenada.
 - formato lista desordenada.
 - formato lista desordenada.

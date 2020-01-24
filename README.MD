@@ -32,3 +32,6 @@ underline 2
 - <a href="http://www.google.com">Esto es un link HTML</a>
 - [Esto es un link Markdown](http://www.google.com)
 - [Esto es un link a index](index.html)
+
+# imagenes
+![imagen](https://s6.eestatic.com/2018/03/31/actualidad/Actualidad_296231968_71983699_1706x960.jpg)

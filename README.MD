@@ -83,3 +83,10 @@ export  $initHighlight;
 | Emerson | Ozoria | [index](index.html) |
 | Priscila | Polanco | [index](index.html) |
 | Gabriel | Valdez | [index](index.html) |
+
+# citas
+Este se refiere a la cita de abajo.
+> Esta es la cita.
+
+Este otro texto se refiere a otra cita.
+> Otra cita.
